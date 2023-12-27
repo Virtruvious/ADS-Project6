@@ -1,0 +1,6 @@
+Random Restart Hill Climbing
+Solution 1: 31.27
+Solution 2: 5.16
+Solution 3: 28.93
+Solution 4: 12.56
+Solution 5: 6.73
